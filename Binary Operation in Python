@@ -1,0 +1,15 @@
+# Binary And 
+
+a = 50     # 110010 in binray of 50
+b = 25     # 011001 in binray of 25
+c = a & b  # 010000 in binray of 16
+
+print(c)
+
+# Binary Right Shift 
+
+x = 240    # 11110000
+# shift the the bits to right to 2 bits 
+y = x >> 2 # 00111100 which is 60
+
+print(y)
